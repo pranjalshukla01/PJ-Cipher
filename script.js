@@ -281,7 +281,7 @@ function App() {
       </section>
 
       <footer className="footer">
-        <span>built for PJ · caesar shift engine</span>
+        <span>JXQJ MXYSX TEUIDJ AYBB KI CQAUI KI IJHEDWUH- shift=10</span>
       </footer>
     </div>
   );
